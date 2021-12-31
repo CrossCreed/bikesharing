@@ -19,7 +19,19 @@ Visuzliations for the following will be created using a converted datatype from 
   
 ### bikesharing Results
 ___
+![image](https://user-images.githubusercontent.com/89520192/147829267-8ffcb0d5-fd74-45cc-9e67-06c74f486c41.png)
 
+![image](https://user-images.githubusercontent.com/89520192/147829286-5f5da0a7-43e6-4263-9fc2-b2315c76dfc0.png)
+
+![image](https://user-images.githubusercontent.com/89520192/147829302-3887957b-bc12-4158-8c0b-506040301b2e.png)
+
+![image](https://user-images.githubusercontent.com/89520192/147829323-314caba8-16e9-4262-ad7d-7a1be245ab08.png)
+
+![image](https://user-images.githubusercontent.com/89520192/147829335-a8b2e015-5464-45ba-9cf5-d6169ae2a6cd.png)
+
+![image](https://user-images.githubusercontent.com/89520192/147829350-76d71a10-ebdb-43e2-9379-54add81c56c7.png)
+
+![image](https://user-images.githubusercontent.com/89520192/147829362-fbbf3f65-f5b4-4858-8175-8c042520fcaf.png)
 
 
 ### bikesharing Summary
